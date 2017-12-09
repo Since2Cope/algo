@@ -9,7 +9,7 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
-
+git rm -r --cached lab4
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -259,6 +259,10 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+<<<<<<< HEAD
 Lab4/Lab4/Source.cpp
 Lab4/Lab4/Source.cpp
 Lab4/Lab4/Source.cpp
+=======
+git rm -r --cached folderName
+>>>>>>> b59ac41af4ff7e9fec4a4daab21219d3e3499867
