@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Node value="5">
+    <Node value="1">
+        <Node value="7">
+            <Node value="12"></Node>
+        </Node>
+        <Node value="18"></Node>
+        <Node value="4"></Node>
+    </Node>
+    <Node value="12">
+        <Node value="3"></Node>
+    </Node>
+</Node>
