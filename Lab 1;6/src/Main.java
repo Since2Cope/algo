@@ -5,7 +5,8 @@ public class Main {
     public static void main(String[] args) {
         try {
 //            String[] stringStatement = ("( -2 * ( 19 + 7 ) / 11 * 5 - 11 )").split(" ");
-            String [] stringStatement = ("П ( 2 - 3 ) sin i / ( ( i - 1 ) ^ 2 )").split(" ");
+//            String [] stringStatement = ("П ( 2 - 3 ) sin i / ( ( i - 1 ) ^ 2 )").split(" ");
+              String [] stringStatement = ("П ( 3 * i -2) / ( 3 * i )").split(" ");
             List<String> statement = new ArrayList<>();
             Collections.addAll(statement, stringStatement);
             System.out.println(Calculator.calculateFullStatement(statement));
